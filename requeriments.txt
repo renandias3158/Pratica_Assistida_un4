@@ -1,6 +1,6 @@
-streamlit
-tensorflow
-numpy
-pillow
-matplotlib
-scikit-learn
+streamlit>=1.28
+tensorflow-cpu==2.13.0
+numpy>=1.23
+pillow>=9.5
+matplotlib>=3.7
+scikit-learn>=1.3
